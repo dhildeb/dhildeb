@@ -1,0 +1,433 @@
+1. red frog solutions
+2. google
+3. vmware
+4. bastian solutions
+5. affirm
+6. Jetfuel
+7. Revature
+8. Apex Systems
+9. Lovevery
+10.Idaho Central Credit Union
+
+
+Growing top-tier IT company in Boise, ID looking for a Junior/Associate Software Developer with Java to join 
+already elite team as a full time/permanent employee to work remote for our Boise, ID office. Scala experience 
+or training desired. This is an outstanding opportunity to grow and learn from this fast growing software company. 
+Please reach out for a confidential chat.
+
+
+
+
+Google's software engineers develop the next-generation technologies that change how billions of users connect, explore,
+ and interact with information and one another. Our products need to handle information at massive scale, and extend well
+ beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, 
+distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, 
+natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer,
+ you will work on a specific project critical to Google's needs with opportunities to switch teams and projects as you
+ and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be
+ enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+
+Google aspires to be an organization that reflects the globally diverse audience that our products and technology serve.
+ We believe that in addition to hiring the best talent, a diversity of perspectives, ideas, and cultures leads to the
+ creation of better products and services.
+
+Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready
+ to take on some of technology's greatest challenges and make 
+an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely
+ work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers
+ around the world. From Google Ads to Chrome, Android to YouTube, Social to Local, Google engineers are changing the
+ world one technological achievement after another.
+
+Ready to build? So are we. Come join VMware’s new and exciting Modern Applications Business Unit (MAPBU) team, made up of
+ products and services under the Tanzu portfolio to help customers build, run and manage their most important applications.
+ We build applications with velocity to run in a cloud-native environment, run open-source Kubernetes with consistency,
+ and manage our customers' entire footprint with confidence to help them achieve their business outcomes.
+
+As a Senior member of technical Staff in the Modern Applications Business Unit (MAPBU) team you will be developing 
+foundational platform features for application platform. It is a challenging role and provides an opportunity to have a
+ meaningful impact on the future of developer and application experience in Tanzu platform. You have strong product
+ instincts along with have an appreciation agile and user-centered design (UCD) values, principles and practices.
+  You are excited by the user and business value that technology can unlock. You thrive in a complex ecosystem,
+ collecting, sharing and synthesizing input from technical leads and enabling your team to continuously deliver customer
+ value. You believe in doing the right thing and doing what works.  
+
+What you’ll be doing:
+
+You will be a technical voice for the platform engineering team. The goal of this program is to bring consistency in the
+ way we define policies, authentication, telemetry and other such constructs across the Developer and Application Platform.
+
+You will be responsible for:
+
+* Designing and developing platform features needed across the organization.
+
+* Collaborating with other engineers on the team to achieve planned targets. 
+
+* Active involving in team-wide discussions about software best practices.
+
+* Identifying issues, resolving bugs and writing high-quality engineering documentation.
+
+* Working directly with engineering teams for different areas of VMware Tanzu portfolio
+
+* Bringing clarity where there is uncertainty, manage risk and continuously deliver value.
+
+Desired Skills & Experience:
+
+* Bachelors or master’s degree in computer science or equivalent preferred; demonstrable understanding of systems,
+ algorithms, and OO design required.
+
+* 5+ years engineering experience, especially with large scale, distributed technical solutions
+
+* Have prior experience in developing large scale systems.
+
+* Exposure to container and Kubernetes technology, container-focused Linux distributions, and virtualization in the cloud.
+
+* Ability to collaborate well with engineers, designers, and other partners
+
+* Strong communication skills and the ability to mentor others
+
+* Able to breakdown complex problems into simple solutions
+
+* Experience mentoring junior engineers.
+
+* Strong familiarity with Agile development is desirable.
+
+If you believe you are a great candidate for this position but don’t meet all the requirements, please do not hesitate to
+ apply.
+
+
+
+
+The Software Engineer I will work with a small R&D team in Boise to produce an industry leading Mobile Robotic solution 
+for the Material Handling Industry. They will utilize the latest technologies to integrate robotics into material handling
+ systems for complex applications. This includes R&D and prototype development to successfully bring new products to
+ market. The process involves understanding the customer's goals and objectives and developing engineered solutions
+ to meet these goals.
+
+The Software Engineer I will assist in developing new technologies and functional prototypes for Bastian Solutions. 
+The Software Engineers primary focus will be on Computer Vision, Object Recognition, and Autonomous Navigation Systems.
+ Timeframes for prototypes will be Project Managed and need to be functionally and aesthetically pleasing as we plan to
+ demonstrate these new technologies to our customers. Projects will be confidential through the pilot project as not to
+ impact our current relationships with partner manufacturers. This position works directly for the Lead Software Engineer
+ and collaborates with various manufacturing business units (Internal and External).
+
+Essential Functions
+With guidance, assist with development and implementation of software and algorithms for automated systems
+Assist with preparing detailed functional specification and flow diagrams to illustrate the sequence of steps that the
+ program must follow and to describe input, output, and logical operations involved
+Flexibility to customize to our customer's ever-changing requirements
+After Sales Support for the specific programs developed
+With guidance, analyze workflow chart and diagram
+Communicate closely with other team members or the end user as necessary to resolve questions of the program's
+ functionality, data input, output requirements, and various internal checks and controls
+Follow revision and code documentation standards
+With guidance, debug and unit test all software changes
+Follow code control guidelines and under guidance assist with Performance Analysis
+Assist in writing help instructions to guide operating personnel on location with little guidance
+Complete programming assignments on schedule
+With guidance, create Test Plans for Integration or Testing Integration: Modules, Scripts and Interfaces integrate
+ seamlessly with the control system
+
+Preferred Skills & Qualifications
+Basic knowledge of developing on both windows and Linux OS with a variety of build systems Version control systems.
+Development experience in C/C++, C#, Python and other common development languages ROS
+Preferred experience with Microcontroller Firmware Experience and Real-Time Operating System (RTOS)
+Motor Control Algorithms and Database and Web Development (Javascript, HTML, Web Frameworks, etc.)
+Working experience with Robotics Industry technologies (Microcontrollers, Motor Controllers, Lidar, Encoders, and 
+various Sensors)
+Knowledge of Computer Vision systems including, but not limited to, OpenCV, 3D Point-Clouds, LIDAR systems, etc.
+Exposure and or Development experience with Autonomous Navigation (SLAM, LIDAR, ROS Navigation Stack, etc.)
+Understanding of basic electrical theory and circuit design
+
+
+
+Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay 
+later without any hidden fees or compounding interest.
+
+We are seeking a Backend Software Engineer to build out financial products and features providing new levels of 
+accessibility and flexibility to our users. Affirm is experiencing explosive growth with millions of customers across
+ thousands of merchants in-store and online, and your contributions will be a key enabler of that growth. Come join us 
+as we build a beloved, lasting financial services brand predicated on honesty and trust.
+
+What You’ll Do
+Work with product and engineering managers to identify and plan projects based on the team goals and resources.
+Drive detailed project definition, design, cross-functional alignment, estimation, in addition to task break-down, 
+delivery, monitoring, and maintenance.
+Consistently generate simple and elegant designs, and write high-quality code that can be easily understood and leveraged
+ by others.
+Build relationships with people across engineering and other organizations for the design, implementation, roll-out and
+ maintenance of projects.
+Actively participates in making their team and workplace an inclusive environment for people from all backgrounds.
+
+What We Look For
+2+ years of software engineering experience shipping production quality code
+Passionate: Passionate about Affirm's Mission: "Deliver Honest Financial Products that improve lives"
+Technical: Solid CS fundamentals and fluency of a dynamically typed language. We primarily use Python, but members 
+of our team have backgrounds in a wide range of technologies
+Collaborative: Enjoys cross team collaboration especially with product managers and designers
+Humble: You have the humility and self-awareness to understand and navigate the unknown
+User Focused: Cares about the details in the user experience
+
+
+
+Full Job Description
+At JetFuel, we are building the creator economy by providing creators with the tools they need to grow, monetize and
+ thrive in the digital advertising space. Today, this means building a best-in-class platform that provides monetization
+ opportunities, strategies and data-driven content development tools to drive long term growth for our advertising
+ partners and, most importantly, the creators.
+
+About Product Engineering at JetFuel
+Engineering at JetFuel is different, by design. We are product engineers, first and foremost. We value shipping a product
+ to our customers that creates an immediate and meaningful impact in their interactions with our platform. We place far
+ less of an emphasis on using the most trendy engineering frameworks, technologies or topics - we prioritize user 
+experience and the inherent value of iterating over purity of product. The product engineering team works in a highly 
+collaborative environment with the business stakeholders, directly negotiating requirements without the added layer of 
+a formalized product or program management department. Engineers join JetFuel for the focus on product, the ability to 
+ship lots of products, fast, and the no-ego, level-disregarding collaboration that is fostered across the entire company. 
+Our founders still actively push code and launch new features, we aim to embody the “no job is too small for me” mindset.
+
+What You'll Do
+
+Work at all levels of the stack, specifically with Node.JS, PostgreSQL and React in a Google Cloud Platform environment
+Partner with the Growth, Media, Community, Creator and Advertiser Teams to ideate and execute nuanced features and
+ products for the creator economy
+Drive and own the delivery of software components from inception to production
+Partner with fellow product engineers to review code and improve code quality
+What You've Done
+
+Recent experience architecting, designing and implementing products within a new system or existing platform
+Shipped consumer-facing products, ideally mobile-first products with accompanying web applications
+Experience mentoring and developing engineers with or without a formal leadership title
+Meaningful exposure to mobile development challenges, enough to have opinions around technical choices that may cause
+ downstream impacts to your own work
+Bonus Points!
+
+Experience implementing machine learning-enabled product features on an existing platform
+Significant experience launching iOS and Android applications
+Past experience leading product engineering teams or ad-hoc project teams
+Experience working in an early-stage startup environment
+Programming experience with any of the following: Swift, Objective-C, Kotlin, Go and/or Python
+Why join JetFuel?
+Engineering at JetFuel is truly product engineering, not simply implementing what the business stakeholders request to
+ hit milestones along a product roadmap. As an engineer at JetFuel, you will have meaningful and immediate input and 
+impact across the technical platform and our overall business. Our core values truly reflect our actions, down to the 
+speed of our interview process and commitment to having fun and enjoying the work we do.
+
+Our Core Values
+Do It, Yesterday
+Find a Way
+Always Question
+Do What Works
+Enjoy The Ride
+
+We believe in providing an inclusive environment that fosters psychological safety and freedom to fail, fast. To that 
+end, we are excited and committed to providing a breadth of benefits and perks for our employees. A brief highlight of 
+these benefits can be found below:
+
+Comprehensive health, vision & dental plans
+Unlimited vacation policy (we make sure you actually use it as well!)
+Flexible work schedule
+New work laptop of your choice and budget to set up your work-from-home office
+Once we return, a goldfish friendly office!
+
+JetFuel promotes diversity and provides equal opportunity for all applicants and employees. We are dedicated to building
+ a company that represents a variety of backgrounds, perspectives, and skills. We believe that the more inclusive we are,
+ the better our work (and work environment) will be for everyone.
+
+The next step in our process is a project-based assessment on the Hatchways platform.
+
+
+Revature is the fastest growing employer of emerging technology talent in the US. We will hire over 300 new Junior 
+Software Developers in the next 4 weeks.
+
+One day someone is going to ask you where you got your start…This is IT!
+
+With a wide range of Fortune 500 enterprises, government organizations and top systems integrators as our clients, we
+ not only provide you with the skills needed to succeed through an employer-paid training program but will also give you
+ the opportunity to put those skills to use, on projects that matter.
+
+
+
+What We Are Looking For
+
+College degree (Associates or Bachelors)
+Must be authorized to work in the US
+Strong desire to learn to code – No prior professional experience required.
+A natural problem solver
+Strong communication and interpersonal skills
+Willing to relocate anywhere in the US – Relocation assistance provided
+What We Offer
+
+Competitive salary
+Relocation & housing assistance
+Health, vision & dental insurance
+Paid time off
+Industry Certifications
+Life Insurance Policy
+401k
+Mentoring program and ongoing support throughout your entire Revature career
+Experience with the largest and most reputable companies in the US
+Apply Today. Interviews are going on now.
+#SoftwareEngineering
+
+Equal Employment Opportunity
+
+The Company is an equal opportunity employer. We will extend equal opportunity to all individuals without regard to race,
+ religion, color, sex, pregnancy, childbirth or related medical conditions, sexual orientation, gender identity, national 
+origin, disability, age, genetic information, marital status, veteran status, or any other status protected under 
+applicable federal, state, or local laws. This policy applies to all terms and conditions of employment, including but 
+not limited to, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, benefits, 
+compensation and training. If you require an accommodation to work based on any of these protected factors, please notify
+ the Human Resources Department, and the Company will evaluate the request and provide an accommodation in accordance 
+with applicable law.
+
+We seek to comply with all applicable federal, state and local laws related to discrimination and will not tolerate the 
+interference with the ability of any of the Company’s employees to perform their job duties. Our policy reflects and 
+affirms the Company’s commitment to the principles of fair employment and the elimination of all discriminatory practices.
+
+
+
+As a Software developer, you will independently designs and writes complex, production level code to bring new concepts
+ and ideas to reality through the agile and waterfall application development methodologies. You will also research, 
+understand and solve member and credit union needs through the work of discovery and software code development that 
+results in fulfillment of clients mission for the members. Researches and maintains a working knowledge of emerging 
+technologies, trends and developments across the industry as well as emerging trends in software development practices 
+and languages. Designs, codes, tests, deploys and supports software solutions through the software development life-cycle.
+
+Responsibilities
+• Independently designs and writes complex code to create applications and solutions for server and client side production
+ level systems using standard industry languages, IDEs and tools.
+• Researches new solutions and writes code from scratch to prototype new concepts...
+
+
+Lovevery's co-founders and investors have big plans for how the brand can help families digitally, and it is up to you 
+and other members of our industry-leading product development team to deliver a platform to achieve the company's vision. 
+You will do it all in a way that lays the groundwork for our global subscription ecommerce platform and a scalable offering
+ of digital products to create an extraordinary and unmatched experience for our customers. We are looking for a Senior 
+Front-end Engineer to help us create this new type of ecommerce and community experience. This role is primarily 
+front-end but requires full-stack knowledge and covers architectural vision to implementation.
+
+The following attributes in a candidate are essential to success in this role:
+• Full-Stack View with a Front-End focus - You will be architecting a solution that extends from the UI through the 
+back-end and into the data models. Your primary focus is to build robust, high performing front-end web experiences and 
+to do so, you will have to provide input into the right back-end APIs to support your work. You'll deliver full solutions,
+ features and non-functional requirements such as cross-device compatibility, performance, security, and testability.
+• Pragmatism – You will be building new digital products in this role, adding features to existing ecommerce platforms,
+ and integrating third party solutions to create the best experience in the most pragmatic way. You must have the ability
+ to look beyond the current technology stack to get things done.
+• Business-Minded - You will define the ideal technical solution and roadmap and be able to prioritize business 
+trade-offs for each roadmap item.
+• Quality-Focused - You will be a champion for building things in a robust, scalable way and developing automation and 
+monitoring to prevent regressions that will impact customers' experience with Lovevery.
+
+Responsibilities
+• Design and optimize the front-end architecture for all of Lovevery's web experiences – owning the frameworks and 
+systems needed to deliver the product vision, roadmap, and strategy.
+• Continually evolve the codebase to deliver customer and business needs.
+• Work closely with both the product and engineering teams.
+• Define and establish front-end development best practices and patterns.
+• Help make technical recommendations on make vs buy decisions.
+• Lead delivery of product solutions and features.
+• Mentor and pair with mid-level and junior software engineers in order to develop their skills and understanding of the 
+code, programming languages, and frameworks employed within the Lovevery platform.
+
+Qualifications
+• You think parenthood and early childhood are really inspiring things to work on and you have empathy for parents as 
+users of digital products.
+• You are passionate about understanding the customer and delivering an amazing customer experience through digital 
+solutions.
+• 5+ years in a Senior Software Engineer role, preferably working on consumer-focused rich web apps/sites
+• Bachelor's degree in Computer Science, or a related field preferred.
+• You have top-notch programming skills and in-depth knowledge of modern HTML/CSS/JavaScript and can translate design 
+specs into code
+• You've built eCommerce technology solutions and are familiar with solutions like Shopify.
+• You have familiarity with Ruby on Rails or PHP.
+• You have a solid understanding of how web applications work including security, session management, and best
+ development practices.
+• You have basic knowledge of Search Engine Optimization.
+• You have familiarity with a test automation tool and framework such as XUnit, Selenium, etc.
+• You have experience with A/B testing platforms such as Optimizely.
+• You are a highly effective collaborator that thrives working with teams to solve complicated challenges, driving 
+solutions.
+• Your written and oral communications are clear, concise, and thorough.
+• You have the ability to work and thrive in a fast-paced environment and learn rapidly.
+• You have an ability to balance user and business impact that has been informed over the years by shipping creative and 
+highly successful consumer tech products.
+• You have an intrinsic humble hustle.
+
+Our Benefits Include
+• Competitive salary, benefits, and stock options package
+• The usual paid holidays and a few extras (ex. Election day)
+• Paid maternity or paternity leave
+• MacBooks are our standard, but we're happy to get you whatever equipment helps you get your job done
+• Free/discounted Lovevery products
+• Remote-friendly
+• Innovative, fast-paced and team-based culture
+
+
+
+Overview:
+Do you have a passion for software development and keeping innovative solutions up-to-date? Are you technically skilled 
+and ready to build production solutions that could impact the future of ICCU? Are you a positive and upbeat person?If you
+ can answer "yes" to these questions, Idaho Central Credit Union may have an opportunity ideally suited for you. A 
+Jr. Software Developer with oversight, designs and writes, production level code to bring new concepts and ideas to 
+reality through the agile and waterfall application development methodologies. They research, understand and solve member
+ and credit union needs through the work of discovery and software code development that results in fulfillment of credit 
+union mission for our members. They will research and maintain a working knowledge of emerging technologies, trends and 
+developments across the industry as well as emerging trends in software development practices and languages. They will 
+also design, code, test, deploy and support software solutions through the software development lifecycle.
+
+Responsibilities:
+With oversight, designs and writes complex code to create applications and solutions for server and client side 
+production level systems using standard industry languages, IDEs and tools.Researches new solutions and writes code 
+from scratch to prototype new concepts for potential production level implementation.Writes complex code that deploys 
+to: Servers, clients, mobile platforms, core systems, hosted platforms and other systems.With oversight, researches and 
+presents findings with recommendations to leverage current capabilities, existing software services and emerging 
+technologies in new waysAnalyzes, writes and converts user stories into detailed work requirements, plans out and writes 
+code to implement defined requirements in connection with sponsor and stakeholder vision.Maintains a working knowledge of
+ current and trending software development languages, IDEs and methodologies for use in current and future efforts in 
+support of the credit union mission.Conducts regular code reviews of peer and junior developers work to assure quality
+ code is being created with detection and correction of issues and security gaps.Participates in production level code
+ release cycles and proceduresDesigns, writes, tests and deploys code to production systems following standard software 
+development lifecycle methodologies and provides maintenance/support as needed.Leveraging innovation practices, assists 
+in reviews of all internally existing solutions and seeks to improve them through writing code that solves problems and 
+corrects issues discovered.Assists in creating architecture solutions proposals for gaps and new services.Participate in 
+weekly meetings with the IT team to discuss progress, current and upcoming development projects, and issues that need to
+ be resolved.Maintain awareness - and regular sharing - of emerging technology and trends that are now or will in the 
+future impact our members and businessComplete miscellaneous tasks and projects as requested.
+
+Qualifications:
+Bachelors degree in Computer Science, Computer Information Systems, Computer Engineering or Information Systems 
+(or related field) required. 1-5 years of experience required designing and writing code in multiple development 
+languages from among the following to create production level code and solutions. Proficiency in Java or C like 
+development languages including Java, Groovy, Apex, JavaScript, Python, C/C++, C#, or Swift. Additional experience in 
+SQL, JSON/XML, HTML5, AngularJS, or NodeJS. Basic knowledge of cloud-based architectures and environments including 
+Amazon AWS and/or Microsoft Azure. Working knowledge of or exposure to Microservices, docker, Swagger API toolkit, 
+Postman, and scripting is a plus. Basic knowledge of networking protocols, topologies, and operations. Knowledge of 
+IT security principles and protection mechanisms is a plus. Experience working within agile development methodologies 
+to create production ready applications required. C Programming Language Certified Professional or Oracle Certified 
+Professional (java) certification (or equivalent) preferred. Ability to prioritize, meet deadlines, and manage changing 
+priorities with limited direction. Creative problem solving skills with new concepts and ideas formed for consideration.
+ Willingness to work occasionally outside of normal business hours. Excellent English oral and written communication 
+skills. Demonstrated ability to work independently, as well as part of a project team in a cooperative effort. Technical 
+experience with enterprise systems, software development life cycle, application development, database design, and user 
+support. Ability to create, adapt, integrate and present prototypes/software to solve problems and enable new 
+opportunities. Ability to combine and improve existing applications, processes and programs and work within existing 
+policies and procedures. Ability to maintain the confidentiality of the Credit Union and member records at all times.
+Build quality solutions through application development and innovation research. Conduct technical (sometimes complex) 
+research with resulting solution and prototype creation. Make Recommendations based on analysis of data, technical 
+condition and overall systems for new and innovative approaches to solving member and business problems. Build and 
+deploy production level solutions for member use. Must be willing to comply with the Bank Secrecy Act and USA Patriot 
+Act as implemented by Idaho Central Credit Union.Perform tasks requiring manual dexterity (processing paperwork, filing, 
+stapling, sorting, collating, typing, counting cash, etc.).Sit for extended periods of time.Lift 20-40 pounds of
+ applicable supplies including but not limited to copy paper, cash drawers, marketing material, etc.Repetitive motion 
+using wrists, hands, and fingers.Reach keyboards.Ability to operate basic office machines (calculator, computer, 
+telephone, copy machine, fax machine, etc.).The above statements reflect the general details considered necessary 
+to describe the essential functions of the job and should not be construed as a detailed description of all the work 
+requirements that may be inherent of the job.(Keywords: Bank, Banking, Software, Developer)Must be eligible for 
+membership at Idaho Central Credit Union to obtain employment.Idaho Central Credit Union is an Equal Opportunity Employer.
+ Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, age, disability,
+ protected veteran status or other characteristics protected by law.Idaho Central Credit Union is a dynamic financial 
+institution that is focused on helping our members achieve financial success. Established in 1940 we have become the 
+largest and fastest growing financial institution in the state of Idaho. ICCU was voted for large companies the Best 
+Place to work in Idaho.Wehave also been named by S Intelligenceas the top performing credit union in the nation. We are
+ a talent based organization looking for talented individuals to help our members achieve financial success
