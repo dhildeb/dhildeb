@@ -5,5 +5,5 @@ I'm daniel, im working on becoming a full-stack software developer. I come from 
 
 - 🔭 I’m currently working on boise codeworks software developer bootcamp
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Bootstrap, MVC Pattern, Vue and Auth0.
-- 💬 Ask me about Food and Games
+- 💬 Ask me about Food, Games and my family.
 - ⚡ Fun fact: i have the heart of a lion! and a life-time ban from the boise zoo.
